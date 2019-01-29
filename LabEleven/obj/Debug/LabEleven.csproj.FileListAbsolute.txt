@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\GrandCircus\LabEleven\LabEleven\bin\Debug\LabEleven.exe.config
+C:\Users\Administrator\source\repos\GrandCircus\LabEleven\LabEleven\bin\Debug\LabEleven.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabEleven\LabEleven\bin\Debug\LabEleven.pdb
+C:\Users\Administrator\source\repos\GrandCircus\LabEleven\LabEleven\obj\Debug\LabEleven.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabEleven\LabEleven\obj\Debug\LabEleven.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GrandCircus\LabEleven\LabEleven\obj\Debug\LabEleven.exe
+C:\Users\Administrator\source\repos\GrandCircus\LabEleven\LabEleven\obj\Debug\LabEleven.pdb
